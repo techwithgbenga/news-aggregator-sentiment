@@ -25,8 +25,8 @@ This project fetches news headlines from multiple sources, analyzes their sentim
 pip install -r requirements.txt
 ```
 3. Configure the Application:
-Edit config.json to add your news sources, email credentials, and customize settings.
-Note: Replace the example URLs and CSS selectors with real news websites and appropriate selectors. Also, secure your email credentials and consider using environment variables or a secrets manager in a production environment.
+- Edit config.json to add your news sources, email credentials, and customize settings.
+- Note: Replace the example URLs and CSS selectors with real news websites and appropriate selectors. Also, secure your email credentials and consider using environment variables or a secrets manager in a production environment.
   
 5. Run the Application:
 ```bash
