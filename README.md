@@ -18,7 +18,7 @@ This project fetches news headlines from multiple sources, analyzes their sentim
 1. **Clone the repository:**
 ```bash
    git clone https://github.com/techwithgbenga/news_aggregator_sentiment.git
-   cd news-aggregator-sentiment
+   cd news_aggregator_sentiment
 ```
 2. Install dependencies:
 ```bash
