@@ -17,7 +17,7 @@ This project fetches news headlines from multiple sources, analyzes their sentim
 
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/techwithgbenga/news-aggregator-sentiment.git
+   git clone https://github.com/techwithgbenga/news_aggregator_sentiment.git
    cd news-aggregator-sentiment
 ```
 2. Install dependencies:
@@ -44,6 +44,6 @@ python news_aggregator.py
 
 ## Summary
 
-This comprehensive project provides a powerful tool for aggregating news headlines, analyzing their sentiment, logging data, creating visual reports, and sending alerts when negative news sentiment is detected. It is built with extensibility in mind—making it perfect as an open-source contribution on GitHub for anyone interested in news analytics and data-driven insights.
+This comprehensive project provides a powerful tool for aggregating news headlines, analyzing their sentiment, logging data, creating visual reports, and sending alerts when negative news sentiment is detected. It is built with extensibility in mind making it perfect as an open-source contribution on GitHub for anyone interested in news analytics and data-driven insights.
 
 Would you like to add any additional functionalities to this project (such as support for RSS feeds, more sophisticated natural language processing, or a web dashboard)?
